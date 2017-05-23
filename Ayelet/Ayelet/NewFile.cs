@@ -8,5 +8,9 @@ namespace Ayelet
 {
     class NewFile
     {
+        public void nn()
+        {
+
+        }
     }
 }
